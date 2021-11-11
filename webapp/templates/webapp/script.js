@@ -7,3 +7,4 @@ window.onload =function setSlideImage(){
       imageScroll();
     },5000);
 }
+/* Set positions of box divs before the scroll function is called */
